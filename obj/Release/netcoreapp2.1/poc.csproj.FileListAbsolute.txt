@@ -1,0 +1,14 @@
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\bin\Release\netcoreapp2.1\poc.deps.json
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\bin\Release\netcoreapp2.1\poc.runtimeconfig.json
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\bin\Release\netcoreapp2.1\poc.runtimeconfig.dev.json
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\bin\Release\netcoreapp2.1\poc.dll
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\bin\Release\netcoreapp2.1\poc.pdb
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Release\netcoreapp2.1\poc.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Release\netcoreapp2.1\poc.RazorAssemblyInfo.cache
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Release\netcoreapp2.1\poc.RazorAssemblyInfo.cs
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Release\netcoreapp2.1\poc.AssemblyInfoInputs.cache
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Release\netcoreapp2.1\poc.AssemblyInfo.cs
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Release\netcoreapp2.1\poc.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Release\netcoreapp2.1\poc.dll
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Release\netcoreapp2.1\poc.pdb
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Release\netcoreapp2.1\poc.csprojAssemblyReference.cache

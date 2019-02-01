@@ -1,0 +1,70 @@
+C:\Users\Rizwana.Mohammad\Desktop\poc\bin\Debug\netcoreapp2.1\poc.deps.json
+C:\Users\Rizwana.Mohammad\Desktop\poc\bin\Debug\netcoreapp2.1\poc.runtimeconfig.json
+C:\Users\Rizwana.Mohammad\Desktop\poc\bin\Debug\netcoreapp2.1\poc.runtimeconfig.dev.json
+C:\Users\Rizwana.Mohammad\Desktop\poc\bin\Debug\netcoreapp2.1\poc.dll
+C:\Users\Rizwana.Mohammad\Desktop\poc\bin\Debug\netcoreapp2.1\poc.pdb
+C:\Users\Rizwana.Mohammad\Desktop\poc\obj\Debug\netcoreapp2.1\poc.csprojAssemblyReference.cache
+C:\Users\Rizwana.Mohammad\Desktop\poc\obj\Debug\netcoreapp2.1\poc.csproj.CoreCompileInputs.cache
+C:\Users\Rizwana.Mohammad\Desktop\poc\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cache
+C:\Users\Rizwana.Mohammad\Desktop\poc\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cs
+C:\Users\Rizwana.Mohammad\Desktop\poc\obj\Debug\netcoreapp2.1\poc.AssemblyInfoInputs.cache
+C:\Users\Rizwana.Mohammad\Desktop\poc\obj\Debug\netcoreapp2.1\poc.AssemblyInfo.cs
+C:\Users\Rizwana.Mohammad\Desktop\poc\obj\Debug\netcoreapp2.1\poc.RazorTargetAssemblyInfo.cache
+C:\Users\Rizwana.Mohammad\Desktop\poc\obj\Debug\netcoreapp2.1\poc.dll
+C:\Users\Rizwana.Mohammad\Desktop\poc\obj\Debug\netcoreapp2.1\poc.pdb
+C:\Users\ameya.bapat\Desktop\ameya\poc\bin\Debug\netcoreapp2.1\poc.deps.json
+C:\Users\ameya.bapat\Desktop\ameya\poc\bin\Debug\netcoreapp2.1\poc.runtimeconfig.json
+C:\Users\ameya.bapat\Desktop\ameya\poc\bin\Debug\netcoreapp2.1\poc.runtimeconfig.dev.json
+C:\Users\ameya.bapat\Desktop\ameya\poc\bin\Debug\netcoreapp2.1\poc.dll
+C:\Users\ameya.bapat\Desktop\ameya\poc\bin\Debug\netcoreapp2.1\poc.pdb
+C:\Users\ameya.bapat\Desktop\ameya\poc\obj\Debug\netcoreapp2.1\poc.csprojAssemblyReference.cache
+C:\Users\ameya.bapat\Desktop\ameya\poc\obj\Debug\netcoreapp2.1\poc.csproj.CoreCompileInputs.cache
+C:\Users\ameya.bapat\Desktop\ameya\poc\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cache
+C:\Users\ameya.bapat\Desktop\ameya\poc\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cs
+C:\Users\ameya.bapat\Desktop\ameya\poc\obj\Debug\netcoreapp2.1\poc.AssemblyInfoInputs.cache
+C:\Users\ameya.bapat\Desktop\ameya\poc\obj\Debug\netcoreapp2.1\poc.AssemblyInfo.cs
+C:\Users\ameya.bapat\Desktop\ameya\poc\obj\Debug\netcoreapp2.1\poc.RazorTargetAssemblyInfo.cache
+C:\Users\ameya.bapat\Desktop\ameya\poc\obj\Debug\netcoreapp2.1\poc.dll
+C:\Users\ameya.bapat\Desktop\ameya\poc\obj\Debug\netcoreapp2.1\poc.pdb
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Debug\netcoreapp2.1\poc.csprojAssemblyReference.cache
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Debug\netcoreapp2.1\poc.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cache
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cs
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Debug\netcoreapp2.1\poc.AssemblyInfoInputs.cache
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Debug\netcoreapp2.1\poc.AssemblyInfo.cs
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\bin\Debug\netcoreapp2.1\poc.deps.json
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\bin\Debug\netcoreapp2.1\poc.runtimeconfig.json
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\bin\Debug\netcoreapp2.1\poc.runtimeconfig.dev.json
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\bin\Debug\netcoreapp2.1\poc.dll
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\bin\Debug\netcoreapp2.1\poc.pdb
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Debug\netcoreapp2.1\poc.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Debug\netcoreapp2.1\poc.dll
+C:\Users\Mohammad.Rijwan\Downloads\DotNetCoreTest-master\obj\Debug\netcoreapp2.1\poc.pdb
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\bin\Debug\netcoreapp2.1\poc.deps.json
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\bin\Debug\netcoreapp2.1\poc.runtimeconfig.json
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\bin\Debug\netcoreapp2.1\poc.runtimeconfig.dev.json
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\bin\Debug\netcoreapp2.1\poc.dll
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\bin\Debug\netcoreapp2.1\poc.pdb
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\obj\Debug\netcoreapp2.1\poc.csprojAssemblyReference.cache
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\obj\Debug\netcoreapp2.1\poc.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cache
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cs
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\obj\Debug\netcoreapp2.1\poc.AssemblyInfoInputs.cache
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\obj\Debug\netcoreapp2.1\poc.AssemblyInfo.cs
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\obj\Debug\netcoreapp2.1\poc.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\obj\Debug\netcoreapp2.1\poc.dll
+C:\Users\Mohammad.Rijwan\Downloads\JsonTrailDotNet\obj\Debug\netcoreapp2.1\poc.pdb
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\bin\Debug\netcoreapp2.1\poc.deps.json
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\bin\Debug\netcoreapp2.1\poc.runtimeconfig.json
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\bin\Debug\netcoreapp2.1\poc.runtimeconfig.dev.json
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\bin\Debug\netcoreapp2.1\poc.dll
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\bin\Debug\netcoreapp2.1\poc.pdb
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.csprojAssemblyReference.cache
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cache
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cs
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.AssemblyInfoInputs.cache
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.AssemblyInfo.cs
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.dll
+C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.pdb
