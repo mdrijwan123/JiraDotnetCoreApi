@@ -5898,6 +5898,7 @@
       "sha512": "OYHhKbFNJCSHpkLAKI9yqTx3+SZ7aHKZaCP+G5ctlL/rZm5Y37Ke00abUhp5mFEJlvEueYfOGDx/GjltEs210A==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.tools/2.1.1",
+      "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7125,7 +7126,7 @@
       ]
     },
     "Newtonsoft.Json/12.0.1": {
-      "sha512": "jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "sha512": "pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
       "type": "package",
       "path": "newtonsoft.json/12.0.1",
       "files": [
@@ -11911,23 +11912,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mohammad.Rijwan\\.nuget\\packages\\": {},
+    "C:\\Users\\mdrijwan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mohammad.Rijwan\\Desktop\\DOTNET CORE API\\poc.csproj",
+      "projectUniqueName": "C:\\Users\\mdrijwan\\Desktop\\JiraDotnetCoreApi\\poc.csproj",
       "projectName": "poc",
-      "projectPath": "C:\\Users\\Mohammad.Rijwan\\Desktop\\DOTNET CORE API\\poc.csproj",
-      "packagesPath": "C:\\Users\\Mohammad.Rijwan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mohammad.Rijwan\\Desktop\\DOTNET CORE API\\obj\\",
+      "projectPath": "C:\\Users\\mdrijwan\\Desktop\\JiraDotnetCoreApi\\poc.csproj",
+      "packagesPath": "C:\\Users\\mdrijwan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mdrijwan\\Desktop\\JiraDotnetCoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mohammad.Rijwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mdrijwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

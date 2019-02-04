@@ -68,3 +68,17 @@ C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.Ass
 C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.RazorTargetAssemblyInfo.cache
 C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.dll
 C:\Users\Mohammad.Rijwan\Desktop\DOTNET CORE API\obj\Debug\netcoreapp2.1\poc.pdb
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\bin\Debug\netcoreapp2.1\poc.deps.json
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\bin\Debug\netcoreapp2.1\poc.runtimeconfig.json
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\bin\Debug\netcoreapp2.1\poc.runtimeconfig.dev.json
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\bin\Debug\netcoreapp2.1\poc.dll
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\bin\Debug\netcoreapp2.1\poc.pdb
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\obj\Debug\netcoreapp2.1\poc.csprojAssemblyReference.cache
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\obj\Debug\netcoreapp2.1\poc.csproj.CoreCompileInputs.cache
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cache
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\obj\Debug\netcoreapp2.1\poc.RazorAssemblyInfo.cs
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\obj\Debug\netcoreapp2.1\poc.AssemblyInfoInputs.cache
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\obj\Debug\netcoreapp2.1\poc.AssemblyInfo.cs
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\obj\Debug\netcoreapp2.1\poc.RazorTargetAssemblyInfo.cache
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\obj\Debug\netcoreapp2.1\poc.dll
+C:\Users\mdrijwan\Desktop\JiraDotnetCoreApi\obj\Debug\netcoreapp2.1\poc.pdb

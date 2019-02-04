@@ -29,7 +29,7 @@ namespace poc.Model
                 using (HttpClient client = new HttpClient())
                 {
 
-                    string url = "URL of your jira";
+                    string url = "http://10.26.34.104:8000/jira/project";
 					// URL like http://IP-Address/jira/project
 
                     HttpResponseMessage objresponse = client.PostAsJsonAsync<inputtoJiRA>(url, input).Result;
