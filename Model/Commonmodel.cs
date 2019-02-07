@@ -30,7 +30,7 @@ namespace poc.Model
                 {
 
                     string url = "http://10.26.34.104:8000/jira/project";
-					// URL like http://IP-Address/jira/project
+                    // URL like http://IP-Address/jira/project
 
                     HttpResponseMessage objresponse = client.PostAsJsonAsync<inputtoJiRA>(url, input).Result;
                     outputfromJIRA Output = new outputfromJIRA();
@@ -40,7 +40,7 @@ namespace poc.Model
                     if (objresponse.IsSuccessStatusCode)
                     {
                         if (((int)objresponse.StatusCode) < 202)
-                        {                         
+                        {
                             Output.message = Convert.ToString("Success from api with Status Code " + (int)objresponse.StatusCode);
                         }
                     }
