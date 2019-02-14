@@ -1,9 +1,9 @@
 pipeline {
            agent any
            stages {
-                stage("Hello") {
+                stage("Compile stage") {
                      steps {
-                          echo 'Hello World'
+                          sh "dotnet clean;dotnet restore;dotnet build"                       
                      }
                 }
            }
