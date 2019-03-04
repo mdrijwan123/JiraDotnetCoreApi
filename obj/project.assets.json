@@ -11919,11 +11919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mdrijwan\\Desktop\\DotNetprojects\\JiraDotnetCoreApi\\poc.csproj",
+      "projectUniqueName": "C:\\Users\\mdrijwan\\Desktop\\DotNetprojects\\Test DotNetCore\\JiraDotnetCoreApi\\poc.csproj",
       "projectName": "poc",
-      "projectPath": "C:\\Users\\mdrijwan\\Desktop\\DotNetprojects\\JiraDotnetCoreApi\\poc.csproj",
+      "projectPath": "C:\\Users\\mdrijwan\\Desktop\\DotNetprojects\\Test DotNetCore\\JiraDotnetCoreApi\\poc.csproj",
       "packagesPath": "C:\\Users\\mdrijwan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mdrijwan\\Desktop\\DotNetprojects\\JiraDotnetCoreApi\\obj\\",
+      "outputPath": "C:\\Users\\mdrijwan\\Desktop\\DotNetprojects\\Test DotNetCore\\JiraDotnetCoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
